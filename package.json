@@ -1,0 +1,11 @@
+{
+  "name": "hello-cypress",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:zkan/hello-cypress.git",
+  "author": "zkan <kan@prontomarketing.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^3.1.0"
+  }
+}
