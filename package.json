@@ -6,6 +6,6 @@
   "author": "zkan <kan@prontomarketing.com>",
   "license": "MIT",
   "devDependencies": {
-    "cypress": "^3.1.0"
+    "cypress": "^3.1.2"
   }
 }
